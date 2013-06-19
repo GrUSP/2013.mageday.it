@@ -1,12 +1,12 @@
 Magentoday Day
 ===========
 
-Magento è ua dlle piattaforme di ecommerce più apprezzaa sul mercato
+Magento è una delle piattaforme di ecommerce più apprezzate sul mercato
 ------------------------------------------------------------
 
-Il Mage::Day e' l'evento di riferimento su Magento che introduce le best practice e ne mostra case study ad alto livello.
+Il Mage::Day è l'evento di riferimento su Magento che introduce le best practice e ne mostra case study ad alto livello.
 
-L'evento si terràa Modena
+L'evento si terrà Modena
 
 Tutte le informazioni sono disponibili sul sito [MageDay.it](http://www.mageday.it)
 
