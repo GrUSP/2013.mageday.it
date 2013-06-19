@@ -13,7 +13,7 @@ body {
 	background-color: #e55c46;/* rosso */ /* scegli il colore che preferisci per lo sfondo :) commentando o elimindando gli altri*/
 	background-color: #8d89a7;/* viola */
 	background-color: #407E31; /*verde */
-	background-color: #f57b20; /*arancio */
+	background-color: #f35514; /*arancio */
 	font-family: helvetica, verdana, arial, helve, sans-serif;
 	font-size: 15px;
 	line-height: 23px;
@@ -27,7 +27,7 @@ body {
 	background: transparent url(../img/bg_trangles_top.png) repeat-x center top;
 }
 #site_wrapper{
-	background: transparent url(../img/noise.png) repeat;
+	background: transparent url(../img/pattern.png) repeat;
 }
 
 
@@ -67,8 +67,8 @@ h1 a{
 }
 
 h2 {
-	font-size : 50px;
-	line-height: 60px;
+	font-size : 42px;
+	line-height: 1.5em;
 	font-weight: 800;
 	color: rgba(0, 0, 0, .4);
 	text-shadow: 1px 1px 1px rgba(255, 255, 255, .1);
